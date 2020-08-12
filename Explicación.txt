@@ -1,0 +1,5 @@
+Explicar funcionamiento de pagina y agg categoria y productos
+explicar cambiar carousel
+explicar importacion proyecto
+explicar seguridad pattern y js
+explicar nube
